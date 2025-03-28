@@ -1,0 +1,7 @@
+v 4
+file . "lab1_tb.vhdl" "a8f59ab7a5991b9d9b14edc13ecf6945dd97b31b" "20250328031934.906":
+  entity lab1_tb at 1( 0) + 0 on 107;
+  architecture test of lab1_tb at 7( 76) + 0 on 108;
+file . "lab1.vhdl" "a87d07c26f683ca1a613fdd8a42f3f04d39cd53f" "20250328031934.893":
+  entity reg_file at 1( 0) + 0 on 105;
+  architecture behavior of reg_file at 15( 362) + 0 on 106;
